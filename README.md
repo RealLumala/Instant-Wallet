@@ -1,1 +1,1 @@
-An implementation of a Multiple-Signature Token wallet
+An implementation of an Instant Token wallet
